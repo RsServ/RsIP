@@ -7,7 +7,7 @@ Simple Tor exit IP rotation tool for Linux.
 ## Install
 
 ```bash
-git clone <YOUR-GITHUB-URL>
+git clone https://github.com/RsServ/RsIP
 cd RsiP
 sudo ./install.sh
 ```
